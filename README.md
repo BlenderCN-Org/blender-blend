@@ -1,5 +1,7 @@
 # Blender File Format Research
 
+[**WEB**](https://tomashubelbauer.github.io/blender-blend)
+
 In this repository I document the Blender file format in order to learn and as a practical example I aim to get to a point
 where I am able to construct a `blend` file in JavaScript which contains a scene with a few basic meshes, previewed in a
 WebGL canvas and when stored, can be opened by Blender and renders the same scene.
