@@ -24,6 +24,6 @@ I am going to use the following sources which are top search results and look au
 
 ### Create a web app with a WebGL scene renderer containing basic shapes (sphere, cube, text, maybe 2D shapes)
 
-### Implement persisting the user-defined scene as a Bledner `blend` file
+### Implement persisting the user-defined scene as a Blender `blend` file
 
 ### Implement parsing using JavaScript
